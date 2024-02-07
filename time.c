@@ -19,8 +19,6 @@ int main() {
 
         // Delay for 1 second
 
-        // ...
-
             sleep(1); // Use the 'sleep' function to delay for 1 second
 
     }
